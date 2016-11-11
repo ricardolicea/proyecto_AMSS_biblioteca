@@ -34,6 +34,8 @@ public class libro {
     public boolean planas;
     public boolean bibliografia;
 
+    //FALTA METODO CONTRUCTOR
+
 
     //metodos de la clase libro
      /**
